@@ -1,0 +1,82 @@
+body {
+  background-image: url("http://inhouse.hmist.com.tr/images/new-slider/Background(8).jpg");
+}
+.form{
+   position: relative;
+}
+.formi{
+   position: absolute;
+}
+#container{
+	position: relative;
+}
+#sign{
+	position: absolute;
+	background-color: #4dc3ff;
+	border-radius: 3px;
+	 color: white;
+	 width: 10%;
+	 text-align: center;
+	 padding-top: 5px;
+	 padding-bottom: -5px;
+	 left: 610px;
+	 bottom: 410px;
+}
+
+.centro{ 
+	 
+	background-color: white;
+	border-style: solid;
+	margin-right: 35%;
+	margin-top: 50px;
+	margin-bottom: 10px;
+	margin-left: 35%;
+	padding-top: 50px;
+	padding-bottom: 10px;
+}
+
+#forma{
+	margin-top: 150px;
+	margin-left: 10px;
+}
+
+#usuario{ 
+	 
+	margin-left: 80px; 
+	width: 60%;
+	bottom: 50px; 
+	left: 20px;
+}
+
+#contrasena{
+	width: 60%;
+    margin-left: 80px;
+    bottom: 1px;
+    left: 20px;
+
+}
+#check{
+	margin-top:30px; 
+	margin-left: 20px;
+}
+
+#boton{
+	margin-top: 40px;
+	width: 70%;
+	margin-left: 50px;
+	margin-bottom: 30px;
+}
+
+#user{
+   bottom:50px;
+   left: 40px;
+}
+#candado{
+	bottom:1px;
+	left: 40px;
+}
+#fant{
+margin-top: 20px;	
+margin-left: 175px;
+}
+
