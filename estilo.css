@@ -12,7 +12,7 @@ body {
 }
 #sign{
 	position: absolute;
-	background-color: #4dc3ff;
+	background-color: #009973;
 	border-radius: 3px;
 	 color: white;
 	 width: 10%;
@@ -20,7 +20,7 @@ body {
 	 padding-top: 5px;
 	 padding-bottom: -5px;
 	 left: 610px;
-	 bottom: 410px;
+	 bottom: 430px;
 }
 
 .centro{ 
@@ -65,18 +65,22 @@ body {
 	width: 70%;
 	margin-left: 50px;
 	margin-bottom: 30px;
+	background-color: #009973;
 }
 
 #user{
-   bottom:50px;
-   left: 40px;
+   bottom:60px;
+   left: 50px;
+   opacity: 0.5;
 }
 #candado{
-	bottom:1px;
-	left: 40px;
+	bottom:11px;
+	left: 50px;
+	opacity: 0.5;
 }
 #fant{
 margin-top: 20px;	
 margin-left: 175px;
 }
+
 
